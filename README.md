@@ -24,4 +24,4 @@ The task involves digit recognition using an adapted Faster R-CNN framework. The
 
 ## Performance Snapshot
 
-![snapshot](./image/snapshot.png)
+![snapshot](./image/snapshot.jpg)
