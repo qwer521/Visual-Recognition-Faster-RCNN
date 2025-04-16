@@ -1,4 +1,4 @@
-# NYCU Computer Vision 2025 Spring HW1
+# NYCU Computer Vision 2025 Spring HW2
 
 Author: 黃皓君  
 StudentID: 111550034
